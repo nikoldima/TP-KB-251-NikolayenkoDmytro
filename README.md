@@ -14,3 +14,6 @@ add solution for task1
 
 add folder topic_05
 add solution for task1 task2 task3
+
+add folder topic_06
+add solution for task1 task2
